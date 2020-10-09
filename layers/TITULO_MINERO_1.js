@@ -1,0 +1,8 @@
+var json_TITULO_MINERO_1 = {
+"type": "FeatureCollection",
+"name": "TITULO_MINERO_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "RDB-14241", "descriptio": "<html xmlns:fo=\"http:\/\/www.w3.org\/1999\/XSL\/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text\/html\">\n\n<meta http-equiv=\"content-type\" content=\"text\/html; charset=UTF-8\">\n\n<\/head>\n\n<body style=\"mar", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null, "snippet": null, "aREA ha": 19.255 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -76.983815043547452, 1.14439898818477 ], [ -76.983815100732741, 1.142716874018544 ], [ -76.989158248157963, 1.143347158689359 ], [ -76.989158569249099, 1.143545714270922 ], [ -76.989189643934353, 1.143545717161278 ], [ -76.989161049624698, 1.14421831093051 ], [ -76.989527488012911, 1.144175718005772 ], [ -76.989336212487828, 1.143329730216324 ], [ -76.989859675656447, 1.143127852749265 ], [ -76.991946410509655, 1.143024641358245 ], [ -76.993494831436578, 1.141725919758943 ], [ -76.994765312797909, 1.141235944105195 ], [ -76.995413866840224, 1.141245519925494 ], [ -76.995450573014992, 1.141984727852619 ], [ -76.992698598197165, 1.14354504989165 ], [ -76.99349201327972, 1.143544894871669 ], [ -76.992242889576005, 1.144010387462383 ], [ -76.989304807345206, 1.144679522461885 ], [ -76.983815043547452, 1.14439898818477 ] ] ] ] } }
+]
+}
